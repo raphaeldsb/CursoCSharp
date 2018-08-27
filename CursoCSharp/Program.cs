@@ -43,6 +43,8 @@ namespace CursoCSharp
 
                 //Classes Vs Objeto
                 {"Membros - Classes e métodos", Membros.Executar},
+                {"Construtores - Classes e métodos", Construtores.Executar},
+                {"Métodos com retorno - Classes e métodos", MetodosComRetorno.Executar},
             });
 
             central.SelecionarEExecutar();
